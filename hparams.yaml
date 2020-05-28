@@ -1,0 +1,24 @@
+
+# !HyperParams for TTS frontend
+
+# text
+norm_text: True # 文本正则化
+
+# phone
+dict_path: "/data1/liufeng/synthesis/frontend/data/pronunciation_dictionary"
+eng_symbol: True  # 是否使用英文系统，false：使用拼音模拟英文
+eng_dict_path: "/data1/liufeng/synthesis/TACOTRON-2-refined/data/pronunciation/pronunciation_dictionary_ph1"
+nnet_phone: True # 是否使用神经网络模型
+poly_model_dir: "/data1/liufeng/synthesis/frontend/models/v2"
+load_memory_phone: False
+
+# prosody output
+flag_psd: False # 是否预测韵律标签
+nnet_psd: True # 是否使用神经网络模型
+psd_model_dir: "/data1/liufeng/synthesis/frontend/models/psd_v1"
+load_memory_psd: False
+
+# BERT embedding
+bert_model_path: "/data1/liufeng/synthesis/frontend/models/BERT-refine/"
+
+# ##### END #####

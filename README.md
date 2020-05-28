@@ -53,12 +53,12 @@ CUDA_VISIBLE_DEVICES=gpu_num python3  -m  src.train.prosody_train  models/psd_v1
 ### Details
 
 #### 几个常用文件
-pronunciation_diationary: 发音词典
-pronunciation_diationary_ph1: 英文字母发音词典
-qingyin_word: 轻音词典，每个词以轻声结尾
-simple_poly_dict: 多音字词典，记录常见多音字
+- pronunciation_diationary: 发音词典      
+- pronunciation_diationary_ph1: 英文字母发音词典      
+- qingyin_word: 轻音词典，每个词以轻声结尾      
+- simple_poly_dict: 多音字词典，记录常见多音字      
 
 #### 使用的发音变调规则
-协同发音 or 语流音变: 33 -> 23 333 -> 223
-不的特殊规则: 四声之前变二声，一二三声之前变四声。
-一的特殊规则: 四声之前变二声，一二三声之前变四声。
+- 协同发音 or 语流音变: 33 -> 23 333 -> 223       
+- 不的特殊规则: 四声之前变二声，一二三声之前变四声。      
+- 一的特殊规则: 四声之前变二声，一二三声之前变四声。      

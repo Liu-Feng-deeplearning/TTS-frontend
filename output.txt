@@ -1,0 +1,156 @@
+
+id:0
+好的，非常感谢您的宝贵意见，祝您生活愉快，身体健康，再见！
+split-id:0 | 好的#3，
+h ao *3  d e *5 #3 ， 
+split-id:1 | 非常#1感谢#1您的#1宝贵#1意见#3，
+f ei *1  ch ang *2 #1 g an *3  x ie *4 #1 n in *2  d e *5 #1 b ao *3  g ui *4 #1 ii i *4  j ian *4 #3 ， 
+split-id:2 | 祝您#1生活#1愉快#3，
+zh u *4  n in *2 #1 sh eng *1  h uo *2 #1 vv v *2  k uai *4 #3 ， 
+split-id:3 | 身体#1健康#3，
+sh en *1  t i *3 #1 j ian *4  k ang *1 #3 ， 
+split-id:4 | 再见#4！
+z ai *4  j ian *4 #4 ！ 
+split-end
+
+id:1
+好的，请您后续注意接听电话，祝您生活愉快，再见。
+split-id:0 | 好的#3，
+h ao *3  d e *5 #3 ， 
+split-id:1 | 请您#1后续#1注意#1接听#1电话#3，
+q ing *3  n in *2 #1 h ou *4  x v *4 #1 zh u *4  ii i *4 #1 j ie *1  t ing *1 #1 d ian *4  h ua *4 #3 ， 
+split-id:2 | 祝您#1生活#1愉快#3，
+zh u *4  n in *2 #1 sh eng *1  h uo *2 #1 vv v *2  k uai *4 #3 ， 
+split-id:3 | 再见#4。
+z ai *4  j ian *4 #4 。 
+split-end
+
+id:2
+很抱歉，这边就先不打扰您了！祝您生活愉快，再见！
+split-id:0 | 很抱歉#3，
+h en *3  b ao *4  q ian *4 #3 ， 
+split-id:1 | 这边#1就先不打扰#1您了#4！
+zh e *4  b ian *1 #1 j iu *4  x ian *1  b u *4  d a *2  r ao *3 #1 n in *2  l e *5 #4 ！ 
+split-id:2 | 祝您#1生活#1愉快#3，
+zh u *4  n in *2 #1 sh eng *1  h uo *2 #1 vv v *2  k uai *4 #3 ， 
+split-id:3 | 再见#4！
+z ai *4  j ian *4 #4 ！ 
+split-end
+
+id:3
+您好，番禺区中心医院健康管理中心体检服务回访，请问您现在是否方便接听呢？
+split-id:0 | 您好#3，
+n in *2  h ao *3 #3 ， 
+split-id:1 | 番禺区#1中心#1医院#2健康#1管理#1中心#1体检#1服务#1回访#3，
+p an *1  vv v *2  q v *1 #1 zh ong *1  x in *1 #1 ii i *1  vv van *4 #2 j ian *4  k ang *1 #1 g uan *2  l i *3 #1 zh ong *1  x in *1 #1 t i *2  j ian *3 #1 f u *2  uu u *4 #1 h ui *2  f ang *3 #3 ， 
+split-id:2 | 请问您#1现在#1是否#1方便#1接听呢#4？
+q ing *3  uu un *4  n in *2 #1 x ian *4  z ai *4 #1 sh ix *4  f ou *3 #1 f ang *1  b ian *4 #1 j ie *1  t ing *1  n e *5 #4 ？ 
+split-end
+
+id:4
+请问您现在有空接听电话吗？
+split-id:0 | 请问您#1现在#1有空#1接听#1电话吗#4？
+q ing *3  uu un *4  n in *2 #1 x ian *4  z ai *4 #1 ii iu *3  k ong *4 #1 j ie *1  t ing *1 #1 d ian *4  h ua *4  m a *5 #4 ？ 
+split-end
+
+id:5
+请问，您对本次体检的总体满意度如何？你可以回答，非常满意，比较满意，或不满意等。
+split-id:0 | 请问#3，
+q ing *3  uu un *4 #3 ， 
+split-id:1 | 您对#1本次#1体检的#1总体#1满意度#1如何#4？
+n in *2  d ui *4 #1 b en *3  c iy *4 #1 t i *2  j ian *3  d e *5 #1 z ong *2  t i *3 #1 m an *3  ii i *4  d u *4 #1 r u *2  h e *2 #4 ？
+split-id:2 | 你#1可以#1回答#3，
+n i *3 #1 k e *2  ii i *3 #1 h ui *2  d a *2 #3 ， 
+split-id:3 | 非常#1满意#3，
+f ei *1  ch ang *2 #1 m an *3  ii i *4 #3 ，
+split-id:4 | 比较#1满意#3，
+b i *3  j iao *4 #1 m an *3  ii i *4 #3 ，
+split-id:5 | 或#2不满意等#4。
+h uo *4 #2 b u *4  m an *3  ii i *4  d eng *3 #4 。
+split-end
+
+id:6
+抱歉打扰您了，请问您什么时候方便接听电话呢？
+split-id:0 | 抱歉#1打扰#1您了#3，
+b ao *4  q ian *4 #1 d a *2  r ao *3 #1 n in *2  l e *5 #3 ， 
+split-id:1 | 请问您#1什么#1时候#1方便#2接听#1电话呢#4？
+q ing *3  uu un *4  n in *2 #1 sh en *2  m e *5 #1 sh ix *2  h ou *5 #1 f ang *1  b ian *4 #2 j ie *1  t ing *1 #1 d ian *4  h ua *4  n e *5 #4 ？ 
+split-end
+
+id:7
+请问您什么时候方便再次接听电话呢？
+split-id:0 | 请问您#1什么#1时候#1方便#2再次#1接听#1电话呢#4？
+q ing *3  uu un *4  n in *2 #1 sh en *2  m e *5 #1 sh ix *2  h ou *5 #1 f ang *1  b ian *4 #2 z ai *4  c iy *4 #1 j ie *1  t ing *1 #1 d ian *4  h ua *4  n e *5 #4 ？ 
+split-end
+
+id:8
+请问在本次体检中，您对健康管理中心的工作人员服务态度满意吗？
+split-id:0 | 请问#1在本次#1体检中#3，
+q ing *3  uu un *4 #1 z ai *4  b en *3  c iy *4 #1 t i *2  j ian *3  zh ong *1 #3 ， 
+split-id:1 | 您对#1健康#1管理#1中心的#1工作#1人员#1服务#1态度#1满意吗#4？
+n in *2  d ui *4 #1 j ian *4  k ang *1 #1 g uan *2  l i *3 #1 zh ong *1  x in *1  d e *5 #1 g ong *1  z uo *4 #1 r en *2  vv van *2 #1 f u *2  uu u *4 #1 t ai *4  d u *4 #1 m an *3  ii i *4  m a *5 #4 ？
+split-end
+
+id:9
+好的，您对我院体检的工作秩序，体检环境，体检流程等感受如何？
+split-id:0 | 好的#3，
+h ao *3  d e *5 #3 ， 
+split-id:1 | 您对#1我院#1体检的#1工作#1秩序#3，
+n in *2  d ui *4 #1 uu uo *3  vv van *4 #1 t i *2  j ian *3  d e *5 #1 g ong *1  z uo *4 #1 zh ix *4  x v *5 #3 ，
+split-id:2 | 体检#1环境#3，
+t i *2  j ian *3 #1 h uan *2  j ing *4 #3 ， 
+split-id:3 | 体检#1流程#1等#1感受#1如何#4？
+t i *2  j ian *3 #1 l iu *2  ch eng *2 #1 d eng *3 #1 g an *3  sh ou *4 #1 r u *2  h e *2 #4 ？ 
+split-end
+
+id:10
+那请问您觉得，体检过程中各检查项目的等待时间是否可以接受？
+split-id:0 | 那请问您觉得#3，
+n a *4  q ing *3  uu un *4  n in *2  j ve *2  d e *5 #3 ， 
+split-id:1 | 体检#1过程中#2各检查#1项目的#1等待#1时间#2是否#1可以#1接受#4？
+t i *2  j ian *3 #1 g uo *4  ch eng *2  zh ong *1 #2 g e *4  j ian *3  ch a *2 #1 x iang *4  m u *5  d e *5 #1 d eng *3  d ai *4 #1 sh ix *2  j ian *1 #2 sh ix *4  f ou *3 #1 k e *2  ii i *3 #1 j ie *1  sh ou *4 #4 ？ 
+split-end
+
+id:11
+那您觉得哪个环节等候的时间较长呢？一，登记。二，抽血。三，超声。四，其他。
+split-id:0 | 那您#1觉得#1哪个#1环节#1等候的#1时间#1较长呢#4？
+n a *4  n in *2 #1 j ve *2  d e *5 #1 n ei *3  g e *5 #1 h uan *2  j ie *2 #1 d eng *3  h ou *4  d e *5 #1 sh ix *2  j ian *1 #1 j iao *4  ch ang *2  n e *5 #4 ？ 
+split-id:1 | 一#3，
+ii i *1 #3 ， 
+split-id:2 | 登记#4。
+d eng *1  j i *4 #4 。 
+split-id:3 | 二#3，
+ee er *4 #3 ， 
+split-id:4 | 抽血#4。
+ch ou *1  x ie *3 #4 。 
+split-id:5 | 三#3，
+s an *1 #3 ， 
+split-id:6 | 超声#4。
+ch ao *1  sh eng *1 #4 。 
+split-id:7 | 四#3，
+s iy *4 #3 ， 
+split-id:8 | 其他#4。
+q i *2  t a *1 #4 。 
+split-end
+
+id:12
+好的，那您对我们的体检服务还有其他的意见或者建议吗？
+split-id:0 | 好的#3，
+h ao *3  d e *5 #3 ， 
+split-id:1 | 那您对#1我们的#1体检#1服务#1还有#1其他的#1意见#1或者#1建议吗#4？
+n a *4  n in *2  d ui *4 #1 uu uo *3  m en *5  d e *5 #1 t i *2  j ian *3 #1 f u *2  uu u *4 #1 h ai *2  ii iu *3 #1 q i *2  t a *1  d e *5 #1 ii i *4  j ian *4 #1 h uo *4  zh e *3 #1 j ian *4  ii i *4  m a *5 #4 ？ 
+split-end
+
+id:13
+不好意思，这边听不太清，稍后给您来电，感谢您的接听，再见。
+split-id:0 | 不好意思#3，
+b u *4  h ao *3  ii i *4  s iy *5 #3 ， 
+split-id:1 | 这边#2听不太清#3，
+zh e *4  b ian *1 #2 t ing *1  b u *2  t ai *4  q ing *1 #3 ， 
+split-id:2 | 稍后#1给您#1来电#3，
+sh ao *1  h ou *4 #1 g ei *3  n in *2 #1 l ai *2  d ian *4 #3 ， 
+split-id:3 | 感谢#1您的#1接听#3，
+g an *3  x ie *4 #1 n in *2  d e *5 #1 j ie *1  t ing *1 #3 ， 
+split-id:4 | 再见#4。
+z ai *4  j ian *4 #4 。 
+split-end

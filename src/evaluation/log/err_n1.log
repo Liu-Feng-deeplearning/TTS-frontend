@@ -1,0 +1,218 @@
+
+-----------------------------------------------------------------
+Starting new baseline training run
+-----------------------------------------------------------------
+[2020-02-12 14:26:13.419]  total num:54678
+[2020-02-12 14:26:13.419]  right num:50323, err num:4355
+[2020-02-12 14:26:13.420]  err rate:0.07964812173086068
+[2020-02-12 14:26:13.420]  total wrong char: 786
+[2020-02-12 14:26:13.420]  
+一: 149
+[2020-02-12 14:26:13.420]  char:一, right phone:ii i *2, wrong phone:ii i *1, text and phone: 一个似乎从来没想过的问题，/ii i *1 g e *5 s iy *4 h u *1 c ong *2 l ai *2 m ei *2 x iang *3 g uo *4 d e *5 uu un *4 t i *2 ，
+[2020-02-12 14:26:13.420]  char:一, right phone:ii i *2, wrong phone:ii i *1, text and phone: 一个浅显而千真万确的命题。/ii i *1 g e *5 q ian *3 x ian *3 ee er *2 q ian *1 zh en *1 uu uan *4 q ve *4 d e *5 m ing *4 t i *2 。
+[2020-02-12 14:26:13.420]  char:一, right phone:ii i *5, wrong phone:ii i *4, text and phone: 皇庭广场过去历史与烂尾关联在一起。/h uang *2 t ing *2 g uang *3 ch ang *3 g uo *4 q v *4 l i *4 sh ix *3 vv v *3 l an *4 uu ui *3 g uan *1 l ian *2 z ai *4 ii i *4 q i *3 。
+[2020-02-12 14:26:13.420]  char:一, right phone:ii i *2, wrong phone:ii i *1, text and phone: 在现场有一个西瓜长得开裂了，/z ai *4 x ian *4 ch ang *3 ii iu *3 ii i *1 g e *5 x i *1 g ua *1 ch ang *2 d e *5 k ai *1 l ie *4 l e *5 ，
+[2020-02-12 14:26:13.420]  char:一, right phone:ii i *2, wrong phone:ii i *1, text and phone: 网友一抓一个准儿与住房联网的无为而治形成鲜明对比。/uu uang *3 ii iu *5 ii i *4 zh ua *1 ii i *1 g e *5 zh un *3 ee er *5 vv v *3 zh u *4 f ang *2 l ian *2 uu uang *3 d e *5 uu u *2 uu ui *2 ee er *2 zh ix *4 x ing *2 ch eng *2 x ian *1 m ing *2 d ui *4 b i *3 。
+[2020-02-12 14:26:13.420]  
+个: 101
+[2020-02-12 14:26:13.420]  char:个, right phone:g e *4, wrong phone:g e *5, text and phone: 一个似乎从来没想过的问题，/ii i *1 g e *5 s iy *4 h u *1 c ong *2 l ai *2 m ei *2 x iang *3 g uo *4 d e *5 uu un *4 t i *2 ，
+[2020-02-12 14:26:13.421]  char:个, right phone:g e *4, wrong phone:g e *5, text and phone: 一个浅显而千真万确的命题。/ii i *1 g e *5 q ian *3 x ian *3 ee er *2 q ian *1 zh en *1 uu uan *4 q ve *4 d e *5 m ing *4 t i *2 。
+[2020-02-12 14:26:13.421]  char:个, right phone:g e *4, wrong phone:g e *5, text and phone: 个人所得税免征额共调整过两次。/g e *5 r en *2 s uo *3 d e *5 sh ui *4 m ian *3 zh eng *1 ee e *2 g ong *4 t iao *2 zh eng *3 g uo *4 l iang *3 c iy *4 。
+[2020-02-12 14:26:13.421]  char:个, right phone:g e *4, wrong phone:g e *5, text and phone: 在现场有一个西瓜长得开裂了，/z ai *4 x ian *4 ch ang *3 ii iu *3 ii i *1 g e *5 x i *1 g ua *1 ch ang *2 d e *5 k ai *1 l ie *4 l e *5 ，
+[2020-02-12 14:26:13.421]  char:个, right phone:g e *4, wrong phone:g e *5, text and phone: 她贴着一个秃头男人，/t a *1 t ie *1 zh e *5 ii i *1 g e *5 t u *1 t ou *2 n an *2 r en *2 ，
+[2020-02-12 14:26:13.421]  
+为: 98
+[2020-02-12 14:26:13.421]  char:为, right phone:uu ui *4, wrong phone:uu ui *2, text and phone: 为防止人上桥，/uu ui *2 f ang *2 zh ix *3 r en *2 sh ang *4 q iao *2 ，
+[2020-02-12 14:26:13.421]  char:为, right phone:uu ui *4, wrong phone:uu ui *2, text and phone: 为了弥补亏空，/uu ui *2 l e *5 m i *2 b u *3 k ui *1 k ong *1 ，
+[2020-02-12 14:26:13.421]  char:为, right phone:uu ui *4, wrong phone:uu ui *2, text and phone: 翁女士为女儿拍了一组照片。/uu ueng *1 n v *3 sh ix *4 uu ui *2 n v *3 ee er *5 p ai *1 l e *5 ii i *4 z u *3 zh ao *4 p ian *4 。
+[2020-02-12 14:26:13.421]  char:为, right phone:uu ui *4, wrong phone:uu ui *2, text and phone: 因为有很多运送盐的轮船翻了，/ii in *1 uu ui *2 ii iu *3 h en *3 d uo *1 vv vn *4 s ong *4 ii ian *2 d e *5 l un *2 ch uan *2 f an *1 l e *5 ，
+[2020-02-12 14:26:13.422]  char:为, right phone:uu ui *4, wrong phone:uu ui *2, text and phone: 本报将为您奉献最详细的中转接续方案。/b en *3 b ao *4 j iang *1 uu ui *2 n in *2 f eng *4 x ian *4 z ui *4 x iang *2 x i *4 d e *5 zh ong *1 zh uan *3 j ie *1 x v *4 f ang *1 aa an *4 。
+[2020-02-12 14:26:13.422]  
+有: 92
+[2020-02-12 14:26:13.422]  char:有, right phone:ii iu *2, wrong phone:ii iu *3, text and phone: 越要有闯关夺隘的勇气与智慧。/vv ve *4 ii iao *4 ii iu *3 ch uang *3 g uan *1 d uo *2 aa ai *4 d e *5 ii iong *3 q i *4 vv v *3 zh ix *4 h ui *4 。
+[2020-02-12 14:26:13.422]  char:有, right phone:ii iu *2, wrong phone:ii iu *3, text and phone: 但是有广西十不准原则，/d an *4 sh ix *4 ii iu *3 g uang *3 x i *1 sh ix *2 b u *4 zh un *3 vv van *2 z e *2 ，
+[2020-02-12 14:26:13.422]  char:有, right phone:ii iu *2, wrong phone:ii iu *3, text and phone: 有狗的遛狗，/ii iu *3 g ou *3 d e *5 l iu *4 g ou *3 ，
+[2020-02-12 14:26:13.422]  char:有, right phone:ii iu *2, wrong phone:ii iu *3, text and phone: 任连军问张艳辉是否有反映材料，/r en *4 l ian *2 j vn *1 uu un *4 zh ang *1 ii ian *4 h ui *1 sh ix *4 f ou *3 ii iu *3 f an *3 ii ing *4 c ai *2 l iao *4 ，
+[2020-02-12 14:26:13.422]  char:有, right phone:ii iu *2, wrong phone:ii iu *3, text and phone: 这是北美地区有史以来最大数额的彩票总奖金。/zh e *4 sh ix *4 b ei *3 m ei *3 d e *5 q v *1 ii iu *3 sh ix *3 ii i *3 l ai *2 z ui *4 d a *4 sh u *4 ee e *2 d e *5 c ai *3 p iao *4 z ong *3 j iang *3 j in *1 。
+[2020-02-12 14:26:13.422]  
+儿: 84
+[2020-02-12 14:26:13.423]  char:儿, right phone:ee er *2, wrong phone:ee er *5, text and phone: 美儿的父母还捐赠出她的角膜和肾脏。/m ei *3 ee er *5 d e *5 f u *4 m u *3 h ai *2 j van *1 z eng *4 ch u *1 t a *1 d e *5 j iao *3 m o *2 h e *2 sh en *4 z ang *1 。
+[2020-02-12 14:26:13.423]  char:儿, right phone:ee er *2, wrong phone:ee er *5, text and phone: 钟镇涛与女儿牵手逛街。/zh ong *1 zh en *4 t ao *1 vv v *3 n v *3 ee er *5 q ian *1 sh ou *3 g uang *4 j ie *1 。
+[2020-02-12 14:26:13.423]  char:儿, right phone:ee er *2, wrong phone:ee er *5, text and phone: 多数乞儿并非被拐的。/d uo *1 sh u *4 q i *3 ee er *5 b ing *4 f ei *1 b ei *4 g uai *3 d e *5 。
+[2020-02-12 14:26:13.423]  char:儿, right phone:ee er *2, wrong phone:ee er *5, text and phone: 儿子竟然抱着吉他，/ee er *5 z iy *5 j ing *4 r an *2 b ao *4 zh e *5 j i *2 t a *1 ，
+[2020-02-12 14:26:13.423]  char:儿, right phone:ee er *2, wrong phone:ee er *5, text and phone: 翁女士为女儿拍了一组照片。/uu ueng *1 n v *3 sh ix *4 uu ui *2 n v *3 ee er *5 p ai *1 l e *5 ii i *4 z u *3 zh ao *4 p ian *4 。
+[2020-02-12 14:26:13.423]  
+那: 73
+[2020-02-12 14:26:13.423]  char:那, right phone:n a *4, wrong phone:n ei *4, text and phone: 桃源村三期地库停的车多半都是那儿业主的。/t ao *2 vv van *2 c un *1 s an *1 q i *1 d e *5 k u *4 t ing *2 d e *5 ch e *1 d uo *1 b an *4 d ou *1 sh ix *4 n ei *4 ee er *5 ii ie *4 zh u *3 d e *5 。
+[2020-02-12 14:26:13.423]  char:那, right phone:n a *4, wrong phone:n ei *4, text and phone: 那才是贴着，/n ei *4 c ai *2 sh ix *4 t ie *1 zh e *5 ，
+[2020-02-12 14:26:13.424]  char:那, right phone:n a *4, wrong phone:n ei *4, text and phone: 其耳朵上那副名牌耳环着实是亮点。/q i *2 ee er *3 d uo *5 sh ang *4 n ei *4 f u *4 m ing *2 p ai *2 ee er *3 h uan *2 zh e *5 sh ix *2 sh ix *4 l iang *5 d ian *3 。
+[2020-02-12 14:26:13.424]  char:那, right phone:n a *4, wrong phone:n ei *4, text and phone: 那里有我们的根。/n ei *4 l i *3 ii iu *3 uu uo *3 m en *5 d e *5 g en *1 。
+[2020-02-12 14:26:13.424]  char:那, right phone:n a *4, wrong phone:n ei *4, text and phone: 那位替补队员立即填上空位，/n ei *4 uu ui *4 t i *4 b u *3 d ui *4 vv van *2 l i *4 j i *2 t ian *2 sh ang *4 k ong *1 uu ui *4 ，
+[2020-02-12 14:26:13.424]  
+我: 72
+[2020-02-12 14:26:13.424]  char:我, right phone:uu uo *2, wrong phone:uu uo *3, text and phone: 之后我以广告模特儿的身份在艺能界打拼。/zh ix *1 h ou *4 uu uo *3 ii i *3 g uang *3 g ao *4 m o *2 t e *4 ee er *5 d e *5 sh en *1 f en *4 z ai *4 ii i *4 n eng *2 j ie *4 d a *3 p in *1 。
+[2020-02-12 14:26:13.424]  char:我, right phone:uu uo *2, wrong phone:uu uo *3, text and phone: 我喜欢高效沟通。/uu uo *3 x i *3 h uan *1 g ao *1 x iao *4 g ou *1 t ong *1 。
+[2020-02-12 14:26:13.424]  char:我, right phone:uu uo *2, wrong phone:uu uo *3, text and phone: 听听他的自我解剖。/t ing *4 t ing *4 t a *1 d e *5 z iy *4 uu uo *3 j ie *3 p ou *1 。
+[2020-02-12 14:26:13.425]  char:我, right phone:uu uo *2, wrong phone:uu uo *3, text and phone: 我喜欢运动，/uu uo *3 x i *3 h uan *1 vv vn *4 d ong *4 ，
+[2020-02-12 14:26:13.425]  char:我, right phone:uu uo *2, wrong phone:uu uo *3, text and phone: 我有一颗热爱生活的心，/uu uo *3 ii iu *3 ii i *4 k e *1 r e *4 aa ai *4 sh eng *1 h uo *2 d e *5 x in *1 ，
+[2020-02-12 14:26:13.425]  
+得: 72
+[2020-02-12 14:26:13.425]  char:得, right phone:d e *2, wrong phone:d e *5, text and phone: 感染得到控制。/g an *3 r an *3 d e *5 d ao *4 k ong *4 zh ix *4 。
+[2020-02-12 14:26:13.425]  char:得, right phone:d ei *3, wrong phone:d e *5, text and phone: 演员得多高心理素质和流泪技巧才能达到要求哇？/ii ian *3 vv van *2 d e *5 d uo *1 g ao *1 x in *1 l i *3 s u *4 zh ix *4 h e *2 l iu *2 l ei *4 j i *4 q iao *3 c ai *2 n eng *2 d a *2 d ao *4 ii iao *1 q iu *2 uu ua *5 ？
+[2020-02-12 14:26:13.425]  char:得, right phone:d e *2, wrong phone:d e *5, text and phone: 个人所得税免征额共调整过两次。/g e *5 r en *2 s uo *3 d e *5 sh ui *4 m ian *3 zh eng *1 ee e *2 g ong *4 t iao *2 zh eng *3 g uo *4 l iang *3 c iy *4 。
+[2020-02-12 14:26:13.425]  char:得, right phone:d e *2, wrong phone:d e *5, text and phone: 但他远远不能走得洒脱。/d an *4 t a *1 vv van *3 vv van *3 b u *4 n eng *2 z ou *3 d e *5 s a *3 t uo *1 。
+[2020-02-12 14:26:13.425]  char:得, right phone:d e *2, wrong phone:d e *5, text and phone: 怪不得咱俩总吵架，/g uai *4 b u *4 d e *5 z an *2 l ia *3 z ong *3 ch ao *3 j ia *4 ，
+[2020-02-12 14:26:13.425]  
+子: 62
+[2020-02-12 14:26:13.425]  char:子, right phone:z iy *3, wrong phone:z iy *5, text and phone: 说这男子的肾脏被人给摘走。/sh uo *1 zh e *4 n an *2 z iy *5 d e *5 sh en *4 z ang *1 b ei *4 r en *2 g ei *3 zh ai *1 z ou *3 。
+[2020-02-12 14:26:13.426]  char:子, right phone:z iy *3, wrong phone:z iy *5, text and phone: 有一位女子也表示要蹭车。/ii iu *3 ii i *2 uu ui *4 n v *3 z iy *5 ii ie *3 b iao *3 sh ix *4 ii iao *4 c eng *4 ch e *1 。
+[2020-02-12 14:26:13.426]  char:子, right phone:z iy *3, wrong phone:z iy *5, text and phone: 男子一审被判处缓刑。/n an *2 z iy *5 ii i *4 sh en *3 b ei *4 p an *4 ch u *4 h uan *3 x ing *2 。
+[2020-02-12 14:26:13.426]  char:子, right phone:z iy *3, wrong phone:z iy *5, text and phone: 本以为男子会安心生活。/b en *3 ii i *3 uu ui *2 n an *2 z iy *5 h ui *4 aa an *1 x in *1 sh eng *1 h uo *2 。
+[2020-02-12 14:26:13.426]  char:子, right phone:z iy *3, wrong phone:z iy *5, text and phone: 长子罗北屯系部队屯兵陕北的时候所生，/ch ang *2 z iy *5 l uo *2 b ei *3 t un *2 x i *4 b u *4 d ui *4 t un *2 b ing *1 sh an *3 b ei *3 d e *5 sh ix *2 h ou *5 s uo *3 sh eng *1 ，
+[2020-02-12 14:26:13.426]  
+也: 52
+[2020-02-12 14:26:13.426]  char:也, right phone:ii ie *2, wrong phone:ii ie *3, text and phone: 心里也有了怀疑。/x in *1 l i *3 ii ie *3 ii iu *3 l e *5 h uai *2 ii i *2 。
+[2020-02-12 14:26:13.426]  char:也, right phone:ii ie *2, wrong phone:ii ie *3, text and phone: 烟也很大。/ii ian *1 ii ie *3 h en *3 d a *4 。
+[2020-02-12 14:26:13.426]  char:也, right phone:ii ie *2, wrong phone:ii ie *3, text and phone: 看来上帝也有漏斩的时候。/k an *4 l ai *2 sh ang *4 d i *4 ii ie *3 ii iu *3 l ou *4 zh an *3 d e *5 sh ix *2 h ou *5 。
+[2020-02-12 14:26:13.426]  char:也, right phone:ii ie *2, wrong phone:ii ie *3, text and phone: 有一位女子也表示要蹭车。/ii iu *3 ii i *2 uu ui *4 n v *3 z iy *5 ii ie *3 b iao *3 sh ix *4 ii iao *4 c eng *4 ch e *1 。
+[2020-02-12 14:26:13.426]  char:也, right phone:ii ie *2, wrong phone:ii ie *3, text and phone: 也许我们都该早点回到家乡，/ii ie *3 x v *3 uu uo *3 m en *5 d ou *1 g ai *1 z ao *3 d ian *3 h ui *2 d ao *4 j ia *1 x iang *1 ，
+[2020-02-12 14:26:13.427]  
+长: 49
+[2020-02-12 14:26:13.427]  char:长, right phone:zh ang *3, wrong phone:ch ang *2, text and phone: 棉花进口量也大幅增长。/m ian *2 h ua *5 j in *4 k ou *3 l iang *4 ii ie *3 d a *4 f u *2 z eng *1 ch ang *2 。
+[2020-02-12 14:26:13.427]  char:长, right phone:zh ang *3, wrong phone:ch ang *2, text and phone: 在现场有一个西瓜长得开裂了，/z ai *4 x ian *4 ch ang *3 ii iu *3 ii i *1 g e *5 x i *1 g ua *1 ch ang *2 d e *5 k ai *1 l ie *4 l e *5 ，
+[2020-02-12 14:26:13.427]  char:长, right phone:zh ang *3, wrong phone:ch ang *2, text and phone: 学生家长找到秦某后，/x ve *2 sh eng *1 j ia *1 ch ang *2 zh ao *3 d ao *4 q in *2 m ou *3 h ou *4 ，
+[2020-02-12 14:26:13.427]  char:长, right phone:zh ang *3, wrong phone:ch ang *2, text and phone: 欧洲央行行长特里谢则称，/oo ou *1 zh ou *1 ii iang *1 x ing *2 x ing *2 ch ang *2 t e *4 l i *3 x ie *4 z e *2 ch eng *1 ，
+[2020-02-12 14:26:13.427]  char:长, right phone:zh ang *3, wrong phone:ch ang *2, text and phone: 晓菲有一个和她长得几乎一模一样的孪生妹妹晓月。/x iao *3 f ei *1 ii iu *3 ii i *1 g e *5 h e *2 t a *1 ch ang *2 d e *5 j i *3 h u *1 ii i *4 m o *2 ii i *2 ii iang *4 d e *5 l uan *2 sh eng *1 m ei *4 m ei *4 x iao *3 vv ve *4 。
+[2020-02-12 14:26:13.427]  
+可: 49
+[2020-02-12 14:26:13.427]  char:可, right phone:k e *2, wrong phone:k e *3, text and phone: 你睡不着的时候可以来找我哦！/n i *3 sh ui *4 b u *4 zh e *5 d e *5 sh ix *2 h ou *5 k e *3 ii i *3 l ai *2 zh ao *3 uu uo *3 oo o *5 ！
+[2020-02-12 14:26:13.427]  char:可, right phone:k e *2, wrong phone:k e *3, text and phone: 我可以帮你查阅瑜伽资料。/uu uo *3 k e *3 ii i *3 b ang *1 n i *3 ch a *2 vv ve *4 vv v *2 j ia *1 z iy *1 l iao *4 。
+[2020-02-12 14:26:13.427]  char:可, right phone:k e *2, wrong phone:k e *3, text and phone: 你找个印冥钞的地方不就可以了吗？/n i *3 zh ao *3 g e *5 ii in *4 m ing *2 ch ao *1 d e *5 d i *4 f ang *1 b u *2 j iu *4 k e *3 ii i *3 l e *5 m a *5 ？
+[2020-02-12 14:26:13.427]  char:可, right phone:k e *2, wrong phone:k e *3, text and phone: 可以和我分享一下呀。/k e *3 ii i *3 h e *2 uu uo *3 f en *1 x iang *3 ii i *2 x ia *4 ii ia *5 。
+[2020-02-12 14:26:13.427]  char:可, right phone:k e *2, wrong phone:k e *3, text and phone: 你可得拎清楚了。/n i *3 k e *3 d e *5 l in *1 q ing *1 ch u *3 l e *5 。
+[2020-02-12 14:26:13.427]  
+只: 46
+[2020-02-12 14:26:13.428]  char:只, right phone:zh ix *2, wrong phone:zh ix *3, text and phone: 当时心里只想少惹麻烦。/d ang *1 sh ix *2 x in *1 l i *3 zh ix *3 x iang *3 sh ao *3 r e *3 m a *2 f an *5 。
+[2020-02-12 14:26:13.428]  char:只, right phone:zh ix *1, wrong phone:zh ix *3, text and phone: 海事处船只，/h ai *3 sh ix *4 ch u *4 ch uan *2 zh ix *3 ，
+[2020-02-12 14:26:13.428]  char:只, right phone:zh ix *1, wrong phone:zh ix *3, text and phone: 而另一只犬则会用爪子敲字母，/ee er *2 l ing *4 ii i *4 zh ix *3 q van *3 z e *2 h ui *4 ii iong *4 zh ua *3 z iy *5 q iao *1 z iy *4 m u *3 ，
+[2020-02-12 14:26:13.428]  char:只, right phone:zh ix *2, wrong phone:zh ix *3, text and phone: 只有王小平驾驶警车，/zh ix *3 ii iu *3 uu uang *2 x iao *3 p ing *2 j ia *4 sh ix *3 j ing *3 ch e *1 ，
+[2020-02-12 14:26:13.428]  char:只, right phone:zh ix *2, wrong phone:zh ix *3, text and phone: 嘴里只有那口烟的余味。/z ui *2 l i *3 zh ix *3 ii iu *3 n ei *4 k ou *3 ii ian *1 d e *5 vv v *2 uu ui *4 。
+[2020-02-12 14:26:13.428]  
+友: 45
+[2020-02-12 14:26:13.428]  char:友, right phone:ii iu *3, wrong phone:ii iu *5, text and phone: 网友一抓一个准儿与住房联网的无为而治形成鲜明对比。/uu uang *3 ii iu *5 ii i *4 zh ua *1 ii i *1 g e *5 zh un *3 ee er *5 vv v *3 zh u *4 f ang *2 l ian *2 uu uang *3 d e *5 uu u *2 uu ui *2 ee er *2 zh ix *4 x ing *2 ch eng *2 x ian *1 m ing *2 d ui *4 b i *3 。
+[2020-02-12 14:26:13.428]  char:友, right phone:ii iu *2, wrong phone:ii iu *5, text and phone: 后来女友躺在床头不动了，/h ou *4 l ai *2 n v *3 ii iu *5 t ang *3 z ai *4 ch uang *2 t ou *2 b u *2 d ong *4 l e *5 ，
+[2020-02-12 14:26:13.428]  char:友, right phone:ii iu *3, wrong phone:ii iu *5, text and phone: 耄耋书法家章汝奭还专程托友人表达哀思。/m ao *4 d ie *2 sh u *1 f a *3 j ia *1 zh ang *1 r u *3 sh ix *4 h ai *2 zh uan *1 ch eng *2 t uo *1 ii iu *5 r en *2 b iao *3 d a *2 aa ai *1 s iy *5 。
+[2020-02-12 14:26:13.428]  char:友, right phone:ii iu *3, wrong phone:ii iu *5, text and phone: 不少网友为林俊点燃蜡烛，/b u *4 sh ao *3 uu uang *3 ii iu *5 uu ui *2 l in *2 j vn *4 d ian *3 r an *2 l a *4 zh u *2 ，
+[2020-02-12 14:26:13.428]  char:友, right phone:ii iu *3, wrong phone:ii iu *5, text and phone: 也请广大网友为广东文化建设当好参谋，/ii ie *3 q ing *3 g uang *3 d a *4 uu uang *3 ii iu *5 uu ui *2 g uang *3 d ong *1 uu un *2 h ua *4 j ian *4 sh e *4 d ang *1 h ao *3 c an *1 m ou *2 ，
+[2020-02-12 14:26:13.428]  
+小: 39
+[2020-02-12 14:26:13.428]  char:小, right phone:x iao *2, wrong phone:x iao *3, text and phone: 一身裸色的小礼服，/ii i *4 sh en *1 l uo *3 s e *4 d e *5 x iao *3 l i *3 f u *2 ，
+[2020-02-12 14:26:13.428]  char:小, right phone:x iao *2, wrong phone:x iao *3, text and phone: 这些小岛都很宝贵呀，/zh e *4 x ie *1 x iao *3 d ao *3 d ou *1 h en *3 b ao *3 g ui *4 ii ia *5 ，
+[2020-02-12 14:26:13.428]  char:小, right phone:x iao *2, wrong phone:x iao *3, text and phone: 脸小腿长哭声响。/l ian *3 x iao *3 t ui *3 ch ang *2 k u *1 sh eng *1 x iang *3 。
+[2020-02-12 14:26:13.429]  char:小, right phone:x iao *2, wrong phone:x iao *3, text and phone: 水警小艇，/sh ui *3 j ing *3 x iao *3 t ing *3 ，
+[2020-02-12 14:26:13.429]  char:小, right phone:x iao *2, wrong phone:x iao *3, text and phone: 小蕊被诊断出重度肺炎。/x iao *3 r ui *3 b ei *4 zh en *3 d uan *4 ch u *1 zh ong *4 d u *4 f ei *4 ii ian *2 。
+[2020-02-12 14:26:13.429]  
+给: 31
+[2020-02-12 14:26:13.429]  char:给, right phone:g ei *2, wrong phone:g ei *3, text and phone: 什么时候给我换个彩屏手机？/sh en *2 m e *5 sh ix *2 h ou *5 g ei *3 uu uo *3 h uan *4 g e *5 c ai *3 b ing *1 sh ou *3 j i *1 ？
+[2020-02-12 14:26:13.429]  char:给, right phone:g ei *2, wrong phone:g ei *3, text and phone: 都是要交给女婿管理的。/d ou *1 sh ix *4 ii iao *4 j iao *1 g ei *3 n v *3 x v *4 g uan *3 l i *3 d e *5 。
+[2020-02-12 14:26:13.429]  char:给, right phone:g ei *2, wrong phone:g ei *3, text and phone: 给你讲几遍了你还不会，/g ei *3 n i *3 j iang *3 j i *3 b ian *4 l e *5 n i *3 h ai *2 b u *2 h ui *4 ，
+[2020-02-12 14:26:13.429]  char:给, right phone:g ei *2, wrong phone:g ei *3, text and phone: 能不能给你大妈小花留条裤衩？/n eng *2 b u *4 n eng *2 g ei *3 n i *3 d a *4 m a *1 x iao *3 h ua *1 l iu *2 t iao *2 k u *4 ch a *3 ？
+[2020-02-12 14:26:13.429]  char:给, right phone:g ei *2, wrong phone:g ei *3, text and phone: 你给我出去。/n i *3 g ei *3 uu uo *3 ch u *1 q v *4 。
+[2020-02-12 14:26:13.429]  
+候: 29
+[2020-02-12 14:26:13.430]  char:候, right phone:h ou *4, wrong phone:h ou *5, text and phone: 我年轻的时候贩过猪咧，/uu uo *3 n ian *2 q ing *1 d e *5 sh ix *2 h ou *5 f an *4 g uo *4 zh u *1 l ie *5 ，
+[2020-02-12 14:26:13.430]  char:候, right phone:h ou *4, wrong phone:h ou *5, text and phone: 什么时候给我换个彩屏手机？/sh en *2 m e *5 sh ix *2 h ou *5 g ei *3 uu uo *3 h uan *4 g e *5 c ai *3 b ing *1 sh ou *3 j i *1 ？
+[2020-02-12 14:26:13.430]  char:候, right phone:h ou *4, wrong phone:h ou *5, text and phone: 台当局是时候该听听民众的呼声了。/t ai *2 d ang *1 j v *2 sh ix *4 sh ix *2 h ou *5 g ai *1 t ing *4 t ing *4 m in *2 zh ong *4 d e *5 h u *5 sh eng *1 l e *5 。
+[2020-02-12 14:26:13.430]  char:候, right phone:h ou *4, wrong phone:h ou *5, text and phone: 你睡不着的时候可以来找我哦！/n i *3 sh ui *4 b u *4 zh e *5 d e *5 sh ix *2 h ou *5 k e *3 ii i *3 l ai *2 zh ao *3 uu uo *3 oo o *5 ！
+[2020-02-12 14:26:13.430]  char:候, right phone:h ou *4, wrong phone:h ou *5, text and phone: 灯飞了大概两层楼高的时候。/d eng *1 f ei *1 l e *5 d a *4 g ai *4 l iang *3 c eng *2 l ou *2 g ao *1 d e *5 sh ix *2 h ou *5 。
+[2020-02-12 14:26:13.430]  
+很: 28
+[2020-02-12 14:26:13.430]  char:很, right phone:h en *2, wrong phone:h en *3, text and phone: 我当年看猪很准的咧！/uu uo *3 d ang *1 n ian *2 k an *4 zh u *1 h en *3 zh un *3 d i *4 l ie *5 ！
+[2020-02-12 14:26:13.430]  char:很, right phone:h en *2, wrong phone:h en *3, text and phone: 这些小岛都很宝贵呀，/zh e *4 x ie *1 x iao *3 d ao *3 d ou *1 h en *3 b ao *3 g ui *4 ii ia *5 ，
+[2020-02-12 14:26:13.431]  char:很, right phone:h en *2, wrong phone:h en *3, text and phone: 打扫完你会很有成就感的，/d a *3 s ao *3 uu uan *2 n i *3 h ui *4 h en *3 ii iu *3 ch eng *2 j iu *4 g an *3 d e *5 ，
+[2020-02-12 14:26:13.431]  char:很, right phone:h en *2, wrong phone:h en *3, text and phone: 但是很少打篮球呢。/d an *4 sh ix *4 h en *3 sh ao *3 d a *3 l an *2 q iu *2 n e *5 。
+[2020-02-12 14:26:13.431]  char:很, right phone:h en *2, wrong phone:h en *3, text and phone: 舍友也很喜欢这些小乌龟，/sh e *4 ii iu *5 ii ie *3 h en *3 x i *3 h uan *1 zh e *4 x ie *1 x iao *3 uu u *1 g ui *1 ，
+[2020-02-12 14:26:13.431]  
+的: 27
+[2020-02-12 14:26:13.431]  char:的, right phone:d e *5, wrong phone:d i *4, text and phone: 我当年看猪很准的咧！/uu uo *3 d ang *1 n ian *2 k an *4 zh u *1 h en *3 zh un *3 d i *4 l ie *5 ！
+[2020-02-12 14:26:13.431]  char:的, right phone:d e *5, wrong phone:d i *4, text and phone: 但奥迪车里的人态度比较蛮横，/d an *4 aa ao *4 d i *2 ch e *1 l i *3 d i *4 r en *2 t ai *4 d u *4 b i *3 j iao *4 m an *2 h eng *4 ，
+[2020-02-12 14:26:13.432]  char:的, right phone:d e *5, wrong phone:d i *4, text and phone: 编的人水平还没我高呢。/b ian *1 d i *4 r en *2 sh ui *3 p ing *2 h ai *2 m ei *2 uu uo *3 g ao *1 n e *5 。
+[2020-02-12 14:26:13.432]  char:的, right phone:d e *5, wrong phone:d i *4, text and phone: 更多的人还是左右张望，/g eng *4 d uo *1 d i *4 r en *2 h ai *2 sh ix *4 z uo *3 ii iu *4 zh ang *1 uu uang *4 ，
+[2020-02-12 14:26:13.432]  char:的, right phone:d e *5, wrong phone:d i *4, text and phone: 怕自己一插身后的人会不满，/p a *4 z iy *4 j i *3 ii i *4 ch a *1 sh en *1 h ou *4 d i *4 r en *2 h ui *4 b u *4 m an *3 ，
+[2020-02-12 14:26:13.432]  
+你: 27
+[2020-02-12 14:26:13.432]  char:你, right phone:n i *2, wrong phone:n i *3, text and phone: 你喜欢玩什么游戏？/n i *3 x i *3 h uan *1 uu uan *2 sh en *2 m e *5 ii iu *2 x i *4 ？
+[2020-02-12 14:26:13.432]  char:你, right phone:n i *2, wrong phone:n i *3, text and phone: 你老提这种无理又苛刻的要求！/n i *3 l ao *3 t i *2 zh e *4 zh ong *3 uu u *2 l i *3 ii iu *4 k e *1 k e *4 d e *5 ii iao *1 q iu *2 ！
+[2020-02-12 14:26:13.432]  char:你, right phone:n i *2, wrong phone:n i *3, text and phone: 你找个印冥钞的地方不就可以了吗？/n i *3 zh ao *3 g e *5 ii in *4 m ing *2 ch ao *1 d e *5 d i *4 f ang *1 b u *2 j iu *4 k e *3 ii i *3 l e *5 m a *5 ？
+[2020-02-12 14:26:13.432]  char:你, right phone:n i *2, wrong phone:n i *3, text and phone: 你已经在违法啦。/n i *3 ii i *3 j ing *1 z ai *4 uu ui *2 f a *3 l a *5 。
+[2020-02-12 14:26:13.432]  char:你, right phone:n i *2, wrong phone:n i *3, text and phone: 我竟然不知道你想说什么！/uu uo *3 j ing *4 r an *2 b u *4 zh ix *1 d ao *4 n i *3 x iang *3 sh uo *1 sh en *2 m e *5 ！
+[2020-02-12 14:26:13.432]  
+干: 26
+[2020-02-12 14:26:13.433]  char:干, right phone:g an *4, wrong phone:g an *1, text and phone: 干练又不失柔美。/g an *1 l ian *4 ii iu *4 b u *4 sh ix *1 r ou *2 m ei *3 。
+[2020-02-12 14:26:13.433]  char:干, right phone:g an *4, wrong phone:g an *1, text and phone: 干罢农活上上网，/g an *1 b a *4 n ong *2 h uo *2 sh ang *4 sh ang *4 uu uang *3 ，
+[2020-02-12 14:26:13.433]  char:干, right phone:g an *4, wrong phone:g an *1, text and phone: 瞧小孙干的好事！/q iao *2 x iao *3 s un *1 g an *1 d e *5 h ao *3 sh ix *4 ！
+[2020-02-12 14:26:13.433]  char:干, right phone:g an *4, wrong phone:g an *1, text and phone: 李继旺甩开膀子干。/l i *3 j i *4 uu uang *4 sh uai *3 k ai *1 b ang *3 z iy *5 g an *1 。
+[2020-02-12 14:26:13.433]  char:干, right phone:g an *4, wrong phone:g an *1, text and phone: 一只猫跑到这棵树的树干上找到一个树洞，/ii i *4 zh ix *3 m ao *1 p ao *3 d ao *4 zh e *4 k e *1 sh u *4 d e *5 sh u *4 g an *1 sh ang *4 zh ao *3 d ao *4 ii i *1 g e *5 sh u *4 d ong *4 ，
+[2020-02-12 14:26:13.433]  
+以: 25
+[2020-02-12 14:26:13.433]  char:以, right phone:ii i *2, wrong phone:ii i *3, text and phone: 之后我以广告模特儿的身份在艺能界打拼。/zh ix *1 h ou *4 uu uo *3 ii i *3 g uang *3 g ao *4 m o *2 t e *4 ee er *5 d e *5 sh en *1 f en *4 z ai *4 ii i *4 n eng *2 j ie *4 d a *3 p in *1 。
+[2020-02-12 14:26:13.433]  char:以, right phone:ii i *2, wrong phone:ii i *3, text and phone: 所以取名北屯。/s uo *3 ii i *3 q v *3 m ing *2 b ei *3 t un *2 。
+[2020-02-12 14:26:13.433]  char:以, right phone:ii i *2, wrong phone:ii i *3, text and phone: 以免越说越错。/ii i *3 m ian *3 vv ve *4 sh uo *1 vv ve *4 c uo *4 。
+[2020-02-12 14:26:13.433]  char:以, right phone:ii i *2, wrong phone:ii i *3, text and phone: 被同样施以水葫芦疗法。/b ei *4 t ong *2 ii iang *4 sh ix *1 ii i *3 sh ui *3 h u *2 l u *5 l iao *2 f a *3 。
+[2020-02-12 14:26:13.433]  char:以, right phone:ii i *2, wrong phone:ii i *3, text and phone: 他们将被处以死刑，/t a *1 m en *5 j iang *1 b ei *4 ch u *4 ii i *3 s iy *3 x ing *2 ，
+[2020-02-12 14:26:13.433]  
+应: 25
+[2020-02-12 14:26:13.433]  char:应, right phone:ii ing *4, wrong phone:ii ing *1, text and phone: 林晓答应了冉龙梅的恳请。/l in *2 x iao *3 d a *2 ii ing *1 l e *5 r an *3 l ong *2 m ei *2 d e *5 k en *2 q ing *3 。
+[2020-02-12 14:26:13.433]  char:应, right phone:ii ing *4, wrong phone:ii ing *1, text and phone: 一口答应。/ii i *4 k ou *3 d a *2 ii ing *1 。
+[2020-02-12 14:26:13.433]  char:应, right phone:ii ing *4, wrong phone:ii ing *1, text and phone: 这是他们无法应对咖喱过辣导致的问题。/zh e *4 sh ix *4 t a *1 m en *5 uu u *2 f a *3 ii ing *1 d ui *4 g a *1 l i *2 g uo *4 l a *4 d ao *3 zh ix *4 d e *5 uu un *4 t i *2 。
+[2020-02-12 14:26:13.433]  char:应, right phone:ii ing *4, wrong phone:ii ing *1, text and phone: 回应得干脆直接利落。/h ui *2 ii ing *1 d e *5 g an *1 c ui *4 zh ix *2 j ie *1 l i *4 l uo *4 。
+[2020-02-12 14:26:13.433]  char:应, right phone:ii ing *4, wrong phone:ii ing *1, text and phone: 骂完脑子反应过来，/m a *4 uu uan *2 n ao *3 z iy *5 f an *3 ii ing *1 g uo *4 l ai *2 ，
+[2020-02-12 14:26:13.433]  
+所: 25
+[2020-02-12 14:26:13.433]  char:所, right phone:s uo *2, wrong phone:s uo *3, text and phone: 来世平被余雄所感动，/l ai *2 sh ix *4 p ing *2 b ei *4 vv v *2 x iong *2 s uo *3 g an *3 d ong *4 ，
+[2020-02-12 14:26:13.433]  char:所, right phone:s uo *2, wrong phone:s uo *3, text and phone: 所以海水才会这么咸，/s uo *3 ii i *3 h ai *3 sh ui *3 c ai *2 h ui *4 zh e *4 m e *5 x ian *2 ，
+[2020-02-12 14:26:13.433]  char:所, right phone:s uo *2, wrong phone:s uo *3, text and phone: 所以取名北屯。/s uo *3 ii i *3 q v *3 m ing *2 b ei *3 t un *2 。
+[2020-02-12 14:26:13.434]  char:所, right phone:s uo *2, wrong phone:s uo *3, text and phone: 然后一起忘记所有难受，/r an *2 h ou *4 ii i *4 q i *3 uu uang *4 j i *4 s uo *3 ii iu *3 n an *2 sh ou *4 ，
+[2020-02-12 14:26:13.434]  char:所, right phone:s uo *2, wrong phone:s uo *3, text and phone: 叶噶一案的所有犯罪嫌疑人全部被抓获归案。/ii ie *4 g a *2 ii i *2 aa an *4 d e *5 s uo *3 ii iu *3 f an *4 z ui *4 x ian *2 ii i *2 r en *2 q van *2 b u *4 b ei *4 zh ua *1 h uo *4 g ui *1 aa an *4 。
+[2020-02-12 14:26:13.434]  
+行: 24
+[2020-02-12 14:26:13.434]  char:行, right phone:h ang *2, wrong phone:x ing *2, text and phone: 对于纺织行业目前的状况来说，/d ui *4 vv v *2 f ang *3 zh ix *1 x ing *2 ii ie *4 m u *4 q ian *2 d e *5 zh uang *4 k uang *4 l ai *2 sh uo *1 ，
+[2020-02-12 14:26:13.434]  char:行, right phone:h ang *2, wrong phone:x ing *2, text and phone: 收缴的钱款现已进入银行清退专户，/sh ou *1 j iao *3 d e *5 q ian *2 k uan *3 x ian *4 ii i *3 j in *4 r u *4 ii in *2 x ing *2 q ing *1 t ui *4 zh uan *1 h u *4 ，
+[2020-02-12 14:26:13.434]  char:行, right phone:h ang *2, wrong phone:x ing *2, text and phone: 欧洲央行行长特里谢则称，/oo ou *1 zh ou *1 ii iang *1 x ing *2 x ing *2 ch ang *2 t e *4 l i *3 x ie *4 z e *2 ch eng *1 ，
+[2020-02-12 14:26:13.434]  char:行, right phone:h ang *2, wrong phone:x ing *2, text and phone: 欧洲央行行长特里谢则称，/oo ou *1 zh ou *1 ii iang *1 x ing *2 x ing *2 ch ang *2 t e *4 l i *3 x ie *4 z e *2 ch eng *1 ，
+[2020-02-12 14:26:13.434]  char:行, right phone:h ang *2, wrong phone:x ing *2, text and phone: 这个一路上报到汇丰银行高层那儿。/zh e *4 g e *5 ii i *2 l u *4 sh ang *4 b ao *4 d ao *4 h ui *4 f eng *1 ii in *2 x ing *2 g ao *1 c eng *2 n ei *4 ee er *5 。
+[2020-02-12 14:26:13.434]  
+打: 24
+[2020-02-12 14:26:13.434]  char:打, right phone:d a *2, wrong phone:d a *3, text and phone: 他便趴在课桌上打盹。/t a *1 b ian *4 p a *1 z ai *4 k e *4 zh uo *1 sh ang *4 d a *3 d un *3 。
+[2020-02-12 14:26:13.434]  char:打, right phone:d a *2, wrong phone:d a *3, text and phone: 打扫完你会很有成就感的，/d a *3 s ao *3 uu uan *2 n i *3 h ui *4 h en *3 ii iu *3 ch eng *2 j iu *4 g an *3 d e *5 ，
+[2020-02-12 14:26:13.435]  char:打, right phone:d a *2, wrong phone:d a *3, text and phone: 新娘因嫁妆不足而被婆家人打死，/x in *1 n iang *5 ii in *1 j ia *4 zh uang *5 b u *4 z u *2 ee er *2 b ei *4 p o *2 j ia *1 r en *2 d a *3 s iy *3 ，
+[2020-02-12 14:26:13.435]  char:打, right phone:d a *2, wrong phone:d a *3, text and phone: 旧酒瓶被打捆包装在一起。/j iu *4 j iu *3 p ing *2 b ei *4 d a *3 k un *3 b ao *1 zh uang *1 z ai *4 ii i *4 q i *3 。
+[2020-02-12 14:26:13.435]  char:打, right phone:d a *2, wrong phone:d a *3, text and phone: 必须打点，/b i *4 x v *1 d a *3 d ian *3 ，
+[2020-02-12 14:26:13.435]  
+谁: 23
+[2020-02-12 14:26:13.435]  char:谁, right phone:sh ui *2, wrong phone:sh ei *2, text and phone: 刚刚有谁在说话吗？/g ang *1 g ang *1 ii iu *3 sh ei *2 z ai *4 sh uo *1 h ua *4 m a *5 ？
+[2020-02-12 14:26:13.435]  char:谁, right phone:sh ui *2, wrong phone:sh ei *2, text and phone: 谁也没让你花，/sh ei *2 ii ie *3 m ei *2 r ang *4 n i *3 h ua *1 ，
+[2020-02-12 14:26:13.435]  char:谁, right phone:sh ui *2, wrong phone:sh ei *2, text and phone: 不过说到谁是最强的对手，/b u *2 g uo *4 sh uo *1 d ao *4 sh ei *2 sh ix *4 z ui *4 q iang *2 d e *5 d ui *4 sh ou *3 ，
+[2020-02-12 14:26:13.435]  char:谁, right phone:sh ui *2, wrong phone:sh ei *2, text and phone: 内贼会是谁。/n ei *4 z ei *2 h ui *4 sh ix *4 sh ei *2 。
+[2020-02-12 14:26:13.435]  char:谁, right phone:sh ui *2, wrong phone:sh ei *2, text and phone: 谁来赔偿我们的损失。/sh ei *2 l ai *2 p ei *2 ch ang *2 uu uo *3 m en *5 d e *5 s un *3 sh ix *1 。
+[2020-02-12 14:26:13.436]  
+与: 23
+[2020-02-12 14:26:13.436]  char:与, right phone:vv v *2, wrong phone:vv v *3, text and phone: 残羹与冷炙，/c an *2 g eng *1 vv v *3 l eng *3 zh ix *4 ，
+[2020-02-12 14:26:13.436]  char:与, right phone:vv v *2, wrong phone:vv v *3, text and phone: 钟镇涛与女儿牵手逛街。/zh ong *1 zh en *4 t ao *1 vv v *3 n v *3 ee er *5 q ian *1 sh ou *3 g uang *4 j ie *1 。
+[2020-02-12 14:26:13.436]  char:与, right phone:vv v *4, wrong phone:vv v *3, text and phone: 中国投资者可能要参与购买葡萄庄园，/zh ong *1 g uo *2 t ou *2 z iy *1 zh e *3 k e *3 n eng *2 ii iao *4 c an *1 vv v *3 g ou *4 m ai *3 p u *2 t ao *5 zh uang *1 vv van *2 ，
+[2020-02-12 14:26:13.436]  char:与, right phone:vv v *2, wrong phone:vv v *3, text and phone: 但与此同时，/d an *4 vv v *3 c iy *3 t ong *2 sh ix *2 ，
+[2020-02-12 14:26:13.436]  char:与, right phone:vv v *2, wrong phone:vv v *3, text and phone: 他们与景区多次协调未果。/t a *1 m en *5 vv v *3 j ing *3 q v *1 d uo *1 c iy *4 x ie *2 t iao *2 uu ui *4 g uo *3 。
+[2020-02-12 14:26:13.436]  
+手: 23
+[2020-02-12 14:26:13.436]  char:手, right phone:sh ou *2, wrong phone:sh ou *3, text and phone: 但白手起家的创业者也不在少数。/d an *4 b ai *2 sh ou *3 q i *3 j ia *1 d e *5 ch uang *4 ii ie *4 zh e *3 ii ie *3 b u *2 z ai *4 sh ao *3 sh u *4 。
+[2020-02-12 14:26:13.436]  char:手, right phone:sh ou *2, wrong phone:sh ou *3, text and phone: 印度洋上正在出现中国将被捆住手脚的格局。/ii in *4 d u *4 ii iang *2 sh ang *4 zh eng *4 z ai *4 ch u *1 x ian *4 zh ong *1 g uo *2 j iang *1 b ei *4 k un *3 zh u *4 sh ou *3 j iao *3 d e *5 g e *2 j v *2 。
+[2020-02-12 14:26:13.436]  char:手, right phone:sh ou *2, wrong phone:sh ou *3, text and phone: 撸手指。/l u *1 sh ou *3 zh ix *3 。
+[2020-02-12 14:26:13.436]  char:手, right phone:sh ou *2, wrong phone:sh ou *3, text and phone: 唐骏的甩手走人对联游网络来说是雪上加霜。/t ang *2 j vn *4 d e *5 sh uai *3 sh ou *3 z ou *3 r en *2 d ui *4 l ian *2 ii iu *2 uu uang *3 l uo *4 l ai *2 sh uo *1 sh ix *4 x ve *3 sh ang *4 j ia *1 sh uang *1 。
+[2020-02-12 14:26:13.436]  char:手, right phone:sh ou *2, wrong phone:sh ou *3, text and phone: 夫妻俩手里的活一刻没停。/f u *5 q i *1 l ia *3 sh ou *3 l i *3 d e *5 h uo *2 ii i *2 k e *4 m ei *2 t ing *2 。
+[2020-02-12 14:26:13.436]  
+老: 23
+[2020-02-12 14:26:13.436]  char:老, right phone:l ao *2, wrong phone:l ao *3, text and phone: 则由南宁老板和柳州的米粉厂分账。/z e *2 ii iu *2 n an *2 n ing *2 l ao *3 b an *3 h e *2 l iu *3 zh ou *1 d e *5 m i *3 f en *3 ch ang *3 f en *1 zh ang *4 。
+[2020-02-12 14:26:13.436]  char:老, right phone:l ao *2, wrong phone:l ao *3, text and phone: 不能将政府应当承担的补贴作为财政包袱甩给老百姓。/b u *4 n eng *2 j iang *1 zh eng *4 f u *3 ii ing *1 d ang *1 ch eng *2 d an *1 d e *5 b u *3 t ie *1 z uo *4 uu ui *2 c ai *2 zh eng *4 b ao *1 f u *5 sh uai *3 g ei *3 l ao *3 b ai *3 x ing *4 。
+[2020-02-12 14:26:13.436]  char:老, right phone:l ao *2, wrong phone:l ao *3, text and phone: 老母下跪，/l ao *3 m u *3 x ia *4 g ui *4 ，
+[2020-02-12 14:26:13.436]  char:老, right phone:l ao *2, wrong phone:l ao *3, text and phone: 凶徒们将姜老板和女儿女婿捆了起来，/x iong *1 t u *2 m en *5 j iang *1 j iang *1 l ao *3 b an *3 h e *2 n v *3 ee er *5 n v *3 x v *4 k un *3 l e *5 q i *3 l ai *2 ，
+[2020-02-12 14:26:13.436]  char:老, right phone:l ao *2, wrong phone:l ao *3, text and phone: 就如孵小鸡的老母鸡一样温暖。/j iu *4 r u *2 f u *1 x iao *3 j i *1 d e *5 l ao *3 m u *3 j i *1 ii i *2 ii iang *4 uu un *1 n uan *3 。
