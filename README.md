@@ -22,8 +22,8 @@ python3 -m src.train.extract_psd_feature
 ### 训练
 
 ##### 示例
-CUDA_VISIBLE_DEVICES=gpu_num python3  -m  src.train.train  models/v3/
-CUDA_VISIBLE_DEVICES=gpu_num python3  -m  src.train.prosody_train  models/psd_v1/
+CUDA_VISIBLE_DEVICES=gpu_num python3  -m  src.train.train  models/v3/           
+CUDA_VISIBLE_DEVICES=gpu_num python3  -m  src.train.prosody_train  models/psd_v1/       
  
 ##### 训练数据：
 - phone：～154k items(eval ~5k)
