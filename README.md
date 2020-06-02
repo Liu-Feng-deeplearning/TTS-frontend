@@ -19,6 +19,8 @@ python3 tts_frondend_main.py hparams.yaml input_path output_path
 python3 -m src.train.extract_feature
 python3 -m src.train.extract_psd_feature
 
+---
+
 ### 训练
 
 ##### 示例
@@ -33,6 +35,7 @@ CUDA_VISIBLE_DEVICES=gpu_num python3  -m  src.train.prosody_train  models/psd_v1
 - BERT模型来源于google开源模型
 - 分类模型：kashgari （https://kashgari.bmio.net/）
 
+---
 ### 评测 
 
 ##### 拼音准确率评测（5k items）
@@ -50,6 +53,7 @@ CUDA_VISIBLE_DEVICES=gpu_num python3  -m  src.train.prosody_train  models/psd_v1
 4. ~~C++代码实现 模型推理~~
 5. ~~C++代码实现 后处理和正则化~~
 
+---
 ### Details
 
 #### 几个常用文件
